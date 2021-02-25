@@ -1,6 +1,7 @@
 {
 	"dogs": [{
 			"name": "Zach",
+			"id": 1, 
 			"breed": " Pit Bull Terrier Mix",
 			"location": "Middletown, OH",
 			"age_range": "Young",
@@ -22,6 +23,7 @@
 		},
 		{
 			"name": "Genesis",
+			"id": 2, 
 			"breed": "Corgi and Retriver Mix",
 			"location": "Middletown, OH",
 			"age_range": "Adult",
@@ -40,6 +42,7 @@
 		},
 		{
 			"name": "Brinley",
+			"id": 3, 
 			"breed": "Sheperd and Australian Sheperd Mix",
 			"location": "Germantown, OH",
 			"age_range": "Puppy",
@@ -55,6 +58,7 @@
 		},
 		{
 			"name": "Mackenzie",
+			"id": 4, 
 			"breed": " Pit Bull Terrier Mix",
 			"location": "Germantown, OH",
 			"age_range": "Puppy",
@@ -70,6 +74,7 @@
 		},
 		{
 			"name": "Goblin",
+			"id": 5, 
 			"breed": " Pit Bull Terrier Mix",
 			"location": "Germantown, OH",
 			"age_range": "Puppy",
@@ -85,6 +90,7 @@
 		},
 		{
 			"name": "Clara Bean",
+			"id": 6, 
 			"breed": "Pit Bull Terrier Mix",
 			"location": "Germantown, OH",
 			"age_range": "puppy",
@@ -99,7 +105,8 @@
 			}
 		},
 		{
-			"name": "Zach",
+			"name": "Buddy",
+			"id": 7, 
 			"breed": "Labrador Retriever Mix",
 			"location": "Monroe, OH",
 			"age_range": "Adult",
