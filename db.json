@@ -1,0 +1,119 @@
+{
+	"dogs": [{
+			"name": "Zach",
+			"breed": " Pit Bull Terrier Mix",
+			"location": "Middletown, OH",
+			"age_range": "Young",
+			"sex": "Male",
+			"size": "Large",
+			"color": "Gray / Blue / Silver, White / Cream",
+			"meet": "This big goofy guys name is Zach. He is a big sweet pitty mix weighing in at 62 pounds. He is still a young so he still has some growing to do. He loves going on walks and hikes, and during the summer loves the water.",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/49106136/1/?bust=1610897443&width=720",
+			"url": "https://www.petfinder.com/dog/zach-49106136/oh/middletown/josephs-legacy-oh1065/",
+			"about": {
+				"coat_length": "Short",
+				"house_trained": true,
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"good_in_home": ["Other dogs"],
+				"home_without": ["Cats", "Children"],
+				"fee": 200
+
+			}
+		},
+		{
+			"name": "Genesis",
+			"breed": "Corgi and Retriver Mix",
+			"location": "Middletown, OH",
+			"age_range": "Adult",
+			"sex": "Male",
+			"size": "Medium",
+			"color": "Yellow / Tan / Blond / Fawn, White / Cream",
+			"meet": "Meet Genesis! This handsome boy has ears for days! He’s incredibly sweet and goofy and at the same time reserved. Genesis LOVES other dogs, and he looks to them for guidance.",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44071245/2/?bust=1612628916&width=720",
+			"url": "https://www.petfinder.com/dog/genesis-44071245/oh/middletown/josephs-legacy-oh1065/",
+			"about": {
+				"coat_length": "Short",
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"good_in_home": ["Other dogs", "Cats", "Children"],
+				"fee": 200
+			}
+		},
+		{
+			"name": "Brinley",
+			"breed": "Sheperd and Australian Sheperd Mix",
+			"location": "Germantown, OH",
+			"age_range": "Puppy",
+			"sex": "Female",
+			"size": "Medium",
+			"meet": "Hi everyone! Brinley here with an important announcement...I'm available for adoption! I'm an 11 week old shepherd/aussie mix and my foster family says I'm cute as a button with the sweetest personality. I'm a super, lovable girl with the best puppy dog eyes that are guaranteed to melt your heart.",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50647283/1/?bust=1614185249&width=720",
+			"url": "https://www.petfinder.com/dog/brinley-50647283/oh/germantown/adopt-a-pit-rescue-oh1045/",
+			"about": {
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"good_in_home": ["Other dogs", "Cats", "Children"]
+			}
+		},
+		{
+			"name": "Mackenzie",
+			"breed": " Pit Bull Terrier Mix",
+			"location": "Germantown, OH",
+			"age_range": "Puppy",
+			"sex": "Female",
+			"size": "Medium",
+			"meet": "Meet Mackenzie! This tiny sparkplug is full of puppy energy and love. Her favorite things include: playing with other dogs, trying to play with cats, looking super cute in photos and taking naps. Mackenzie also loves her toys and cuddling.",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50634655/1/?bust=1614088959&width=720",
+			"url": "https://www.petfinder.com/dog/mackenzie-50634655/oh/germantown/adopt-a-pit-rescue-oh1045/",
+			"about": {
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"good_in_home": ["Other dogs", "Cats", "Children"]
+			}
+		},
+		{
+			"name": "Goblin",
+			"breed": " Pit Bull Terrier Mix",
+			"location": "Germantown, OH",
+			"age_range": "Puppy",
+			"sex": "Female",
+			"size": "Medium",
+			"meet": "Meet Goblin! Don't let her name fool you, she's super sweet and cuddly. Her favorite place is on a lap or the heat vent. This girl is not a fan of the cold, but looks adorable in a sweater! With those floppy ears and winning personality she is sure to melt everyone's heart.",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50613583/1/?bust=1614079896&width=720",
+			"url": "https://www.petfinder.com/dog/goblin-50613583/oh/germantown/adopt-a-pit-rescue-oh1045/",
+			"about": {
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"good_in_home": ["Other dogs", "Cats", "Children"]
+			}
+		},
+		{
+			"name": "Clara Bean",
+			"breed": "Pit Bull Terrier Mix",
+			"location": "Germantown, OH",
+			"age_range": "puppy",
+			"sex": "Female",
+			"size": "Medium",
+			"meet": "Meet Clara Bean!! This 8 ish month old pocket pit is so adorable!!! She's tiny with a big personality!! Clara Bean is deaf but that doesn't slow her down a bit! She is learning hand signals for her commands! Clara Bean loves other dogs & loves to play!!",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50582354/1/?bust=1614035287&width=720",
+			"url": "https://www.petfinder.com/dog/clara-bean-50582354/oh/germantown/adopt-a-pit-rescue-oh1045/",
+			"about": {
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"good_in_home": ["Other dogs", "Cats", "Children"]
+			}
+		},
+		{
+			"name": "Zach",
+			"breed": "Labrador Retriever Mix",
+			"location": "Monroe, OH",
+			"age_range": "Adult",
+			"sex": "Male",
+			"size": "Large",
+			"meet": "LETS talk about Buddy!!. He loves to go on walks,and for car rides. He loves his toys! He loves little dogs! He likes the water!",
+			"image_url": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/34684355/1/?bust=1490744613&width=720",
+			"url": "https://www.petfinder.com/dog/buddy-34684355/oh/monroe/the-progressive-animal-welfare-society-paws-oh129/",
+			"about": {
+				"coat_length": "Medium",
+				"house_trained": true,
+				"health": ["Vaccinations up to date", "spayed / neutered"],
+				"home_without": ["Other dogs", "Cats", "Children"]
+			}
+		}
+	]
+}
